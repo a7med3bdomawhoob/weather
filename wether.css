@@ -1,0 +1,74 @@
+.colr
+{
+    color: #bfc1c8;
+}
+
+.ronpil:hover
+{
+   border: 1px solid blue;
+}
+
+.nav-item a:hover 
+{
+
+}
+
+.parent
+{
+    background-image: url(../imagecss/images/2.jpg);
+    background-size: cover;
+    background-position: 100% 100%;
+    
+}
+
+.deg
+{
+    font-size: 100px;
+   color: white;
+}
+
+.dg 
+{
+      font-size: 70px;
+   color: white;
+}
+
+.cen
+{
+    background-color: #323544;
+}
+.gray
+{
+    background-color: #262936;
+}
+.he 
+{
+    height: 40px;
+}
+body
+{
+    background-color: gray;
+}
+
+.cool
+{
+    border-radius: 10px;
+}
+.pos
+{
+    z-index: 556;
+    right: 30px;
+}
+
+.w
+{
+    color: white;
+}
+.b
+{
+    background-color: blue;
+}
+.b:hover
+{
+    background-color: blueviolet;
+}
